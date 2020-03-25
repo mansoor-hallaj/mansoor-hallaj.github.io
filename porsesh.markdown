@@ -32,19 +32,19 @@ permalink: /porsesh/
 <br>
 <table dir="rtl" style="border-width: 0px;">
 <tr>
-<td align=right style="border-width: 0px;">
+<td align="right" style="border-width: 0px;">
 در گوش دلم گفت فلک پنهانی
 </td>
-<td align=right style="border-width: 0px;">
+<td align="right" style="border-width: 0px;">
 حکمی که قضا بود ز من میدانی
 </td>
 </tr>
 
 <tr>
-<td align=right style="border-width: 0px;">
+<td align="right" style="border-width: 0px;">
 در گردش خویش اگر مرا دست بدی
 </td>
-<td align=right style="border-width: 0px;">
+<td align="right" style="border-width: 0px;">
 خود را برهاندمی ز سرگردانی
 </td>
 </tr>
